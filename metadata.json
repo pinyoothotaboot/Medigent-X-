@@ -1,0 +1,7 @@
+{
+  "name": "MediGentX Web",
+  "description": "Next-generation AI-powered medical dashboard and workflow engine.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
